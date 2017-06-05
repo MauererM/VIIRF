@@ -1,0 +1,15 @@
+05.06.2017 - 13:02:21
+
+generic(
+NUM_SEC : integer := 27;
+W_DAT_INPUT : integer := 16;
+GAIN_INPUT : integer := 4;
+W_SECT_DAT : integer := 23;
+W_COEF : integer := 18;
+W_FRAC : integer := 16;
+SOSGAIN_EN : boolean := false;
+FINALGAIN_EN : boolean := true;
+W_DAT_OUTPUT : integer := 32;
+W_DAT_INTF : integer := SET_SOMETHING;
+USE_PIPELINE_CORE : boolean := SET_SOMETHING
+);
